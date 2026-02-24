@@ -33,8 +33,7 @@ import com.example.hmcatalog.domain.models.Product
 
 @Composable
 fun ProductCard(
-    product: Product,
-    modifier: Modifier = Modifier
+    product: Product
 ) {
     Card(
         shape = RoundedCornerShape(20.dp),
