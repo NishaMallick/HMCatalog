@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HM Catalog</string>
+    <string name="brand_text">H&amp;M</string>
+    <string name="retry">Retry</string>
+    <string name="no_products_found">No products found</string>
+    <string name="scroll_to_top">Scroll to top</string>
+    <string name="loading_products">Loading products</string>
+    <string name="loading_more_products">Loading more products</string>
+    <string name="product_grid_description">Grid of products, %1$d items</string>
+</resources>
