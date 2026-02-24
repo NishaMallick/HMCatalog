@@ -70,7 +70,7 @@ User-friendly messages are shown with a retry mechanism.
 
 ## How to Run the App
 
-1. Clone the repository -  git clone https://github.com/YOUR_USERNAME/hm-catalog-compose.git
+1. Clone the repository -  git clone https://github.com/NishaMallick/HMCatalog.git
 2. Open the project in Android Studio
 3. Let Gradle sync complete
 4. Run the app on an emulator or connected device
